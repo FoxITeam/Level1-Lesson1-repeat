@@ -16,6 +16,13 @@ public class Method {
         return "Привет, " + name + "!";
     }
 
+    // Возвращаем стринг и получаем инт или наоборот, мы получаем стринг, а можем вернуть инт.
+    public static int getNum(String numA, String numB){
+        int num_1 = Integer.parseInt(numA);
+        int num_2 = Integer.parseInt(numB);
+        return num_1 + num_2;
+    }
+
 //    public static void main(String[] args) {
 //        String name = "Артур";
 //        String hello = greatings(name);
