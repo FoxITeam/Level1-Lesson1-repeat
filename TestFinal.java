@@ -1,5 +1,13 @@
 package ru.foxit.grayfox;
 
+/**
+ * Author Main.java - GrayFox | Ilya Lisin
+ * Contact: Skype: foxygameskype | Telegram: +7(925)316-65-82 | vk: https://vk.com/exsperto1
+ * GitHub: https://github.com/FoxITeam and https://github.com/GrayFoxIT
+ * encoding: UTF-8, Comments, remarks in Russian.
+ */
+
+
 public class TestFinal {
 
     /**
@@ -29,7 +37,7 @@ public class TestFinal {
      */
 
     static String strOne = "Привет";
-    static String strTwo = "Привет";
+    static String strTwo = "Привет"; //
 
     static int ints = 0; // простым языком Статика нужна для того, чтобы все методы видели переменную.
     // А если сделать метод статический, то он будет доступен для создания каких либо объектов его класса.
