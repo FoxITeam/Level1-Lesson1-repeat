@@ -6,7 +6,7 @@ package ru.foxit.grayfox;
  * GitHub: https://github.com/FoxITeam and https://github.com/GrayFoxIT
  * encoding: UTF-8, Comments, remarks in Russian.
  */
-
+ //
 public class Method {
     public static void main(String[] args) {
         System.out.println(greatings("Артур"));
